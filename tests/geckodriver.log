@@ -1,0 +1,77 @@
+1659802991138	geckodriver	INFO	Listening on 127.0.0.1:60163
+1659802994192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ssetl\\AppData\\Local\\Temp\\rust_mozprofiledwSV5S"
+1659802994530	Marionette	INFO	Marionette enabled
+1659802994534	Marionette	INFO	Listening on port 60179
+Read port: 60179
+1659802994829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssetl\\AppData\\Local\\Temp\\rust_mozprofiledwSV5S\\search.json.mozlz4", (void 0)))
+1659802996561	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-08-06T16:23:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-06T16:23:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-06T16:23:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-06T16:23:17Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-06T16:23:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-06T16:23:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-06T16:23:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-06T16:23:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1659802998665	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659804113974	Marionette	INFO	Stopped listening on port 60179
+[Parent 35684, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 35684, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 35684, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659862702074	geckodriver	INFO	Listening on 127.0.0.1:61681
+1659862705132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ssetl\\AppData\\Local\\Temp\\rust_mozprofilevgOyDj"
+1659862706107	Marionette	INFO	Marionette enabled
+1659862706117	Marionette	INFO	Listening on port 61694
+Read port: 61694
+1659862706708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssetl\\AppData\\Local\\Temp\\rust_mozprofilevgOyDj\\search.json.mozlz4", (void 0)))
+1659862708467	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-08-07T08:58:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-07T08:58:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-07T08:58:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-07T08:58:29Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-07T08:58:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-07T08:58:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-07T08:58:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-07T08:58:30Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1659862710849	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3JgSxLv5M8jO-L1UtlL0rxXgrH7WG4OtpnQVSDBU2F0.js line 2 > eval line 6251 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1659862733248	Marionette	INFO	Stopped listening on port 61694
+[Parent 30876, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659863072397	geckodriver	INFO	Listening on 127.0.0.1:61951
+1659863075442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ssetl\\AppData\\Local\\Temp\\rust_mozprofile6wUfgx"
+1659863075817	Marionette	INFO	Marionette enabled
+1659863075822	Marionette	INFO	Listening on port 61964
+Read port: 61964
+1659863076216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssetl\\AppData\\Local\\Temp\\rust_mozprofile6wUfgx\\search.json.mozlz4", (void 0)))
+1659863078065	Marionette	INFO	Stopped listening on port 61964
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1659863804115	geckodriver	INFO	Listening on 127.0.0.1:62136
+1659863807157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ssetl\\AppData\\Local\\Temp\\rust_mozprofilelOtNUO"
+1659863807494	Marionette	INFO	Marionette enabled
+1659863807498	Marionette	INFO	Listening on port 62148
+Read port: 62148
+1659863807842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5319: TypeError: this.PictureInPicture is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ssetl\\AppData\\Local\\Temp\\rust_mozprofilelOtNUO\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4114: Error: Area not yet restored
+1659863809244	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-08-07T09:16:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-07T09:16:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-07T09:16:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-07T09:16:49Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-07T09:16:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-07T09:16:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-07T09:16:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-08-07T09:16:53Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1659863814118	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1659863819835	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659863840586	Marionette	INFO	Stopped listening on port 62148
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4856: TypeError: aWindow.gNavToolbox.palette is undefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
